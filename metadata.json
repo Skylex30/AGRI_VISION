@@ -1,0 +1,5 @@
+{
+  "name": "Legion Agri_Vision",
+  "description": "AI-driven agricultural platform providing localized advisory, marketplace, and computer vision tools for farmers, buyers, and logistics.",
+  "requestFramePermissions": ["camera"]
+}
